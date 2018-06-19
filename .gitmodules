@@ -1,0 +1,9 @@
+[submodule "AlexaTestSkill"]
+	path = AlexaTestSkill
+	url = git@github.com:sunnyMiglani/AlexaTestSkill.git
+[submodule "AlexaButtonSkillTest"]
+	path = AlexaButtonSkillTest
+	url = git@github.com:sunnyMiglani/AlexaButtonSkillTest.git
+[submodule "AWS_ComprehendTests"]
+	path = AWS_ComprehendTests
+	url = git@github.com:sunnyMiglani/AWS_ComprehendTests.git
