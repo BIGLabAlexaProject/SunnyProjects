@@ -7,3 +7,12 @@
 [submodule "AWS_ComprehendTests"]
 	path = AWS_ComprehendTests
 	url = git@github.com:sunnyMiglani/AWS_ComprehendTests.git
+[submodule "AlexaBigQuizMaster"]
+	path = AlexaBigQuizMaster
+	url = git@github.com:sunnyMiglani/AlexaBigQuizMaster.git
+[submodule "AlexaSpeakingTest"]
+	path = AlexaSpeakingTest
+	url = git@github.com:sunnyMiglani/AlexaSpeakingTest.git
+[submodule "WebScrapingTest"]
+	path = WebScrapingTest
+	url = git@github.com:sunnyMiglani/WebScrapingTest.git
