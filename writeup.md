@@ -1,8 +1,4 @@
-# SunnyProjects
-Repository that contains all of Sunny's projects.
-
-
-# Writeup for Internship at the Bristol Interaction Group
+# Internship at the Bristol Interaction Group
 
 The internship was focused on using Alexa and other amazon services such as AWS Lambda, AWS Comprehend and AWS S3 to create a multitude of applications that can be used to work on a co-design
 system with sight impaired students in schools.
